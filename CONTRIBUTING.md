@@ -4,7 +4,7 @@ Thank you for your interest in contributing to this lib! Here are some guideline
 
 ## Reporting Issues
 
-If you encounter any issues or bugs with this lib, please [submit an issue](https://github.com/%7Byour_username%7D/%7Byour_repository%7D/issues/new) on GitHub. When submitting an issue, please include the following information:
+If you encounter any issues or bugs with this lib, please [submit an issue](https://github.com/lightning-contrib/cors/issues/new) on GitHub. When submitting an issue, please include the following information:
 
 - A brief summary of the issue
 - Steps to reproduce the issue
