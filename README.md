@@ -1,13 +1,13 @@
 # cors
 
-CORS (Cross-Origin Resource Sharing) is a security feature implemented in web browsers that restricts web pages from making requests to a different domain than the one that served the web page. CORS middleware is used to enable cross-origin requests in web applications.
+**CORS (Cross-Origin Resource Sharing)** is a security feature implemented in web browsers that restricts web pages from making requests to a different domain than the one that served the web page. CORS middleware is used to enable cross-origin requests in web applications.
 
 This package provides a middleware that can be used to enable CORS in a `Lightning` go web application. The middleware can be configured with various options to allow specific origins, HTTP methods, headers, and more.
 
 ## Installation
 
 ```bash
-go get github.com/{your_username}/{your_repository}/sdk
+go get github.com/lightning-contrib/cors
 ```
 
 ## Usage
@@ -73,4 +73,4 @@ Contributions are welcome! Please see [CONTRIBUTING.md](https://github.com/light
 
 ## License
 
-This middleware is licensed under the [MIT License](./LICENSE). 
+This middleware is licensed under the [MIT License](https://github.com/lightning-contrib/cors/blob/main/LICENSE). 
